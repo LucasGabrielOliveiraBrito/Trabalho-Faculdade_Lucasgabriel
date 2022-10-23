@@ -1,0 +1,35 @@
+Tabela de cores {
+	https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb
+}
+
+Serviços de contabilidade {
+	https://www.contabilizei.com.br/contabilidade-online/servicos-prestados-pelo-escritorio-de-contabilidade/
+}
+
+Imagem da home {
+	https://syhus.com.br/wp-content/uploads/2016/08/8-perguntas-a-fazer-antes-de-contratar-um-escritorio-de-contabilidade.jpeg
+}
+
+Imagem Abertura de Empresa {
+	https://www.ozai.com.br/wp-content/uploads/2018/08/passos-abertura-empresa-768x384.jpg
+}
+
+Imagem escrituração {
+	https://www.ozai.com.br/wp-content/uploads/2019/03/escrituracao-contabil-768x455.png
+}
+
+Imagem Assessoria {
+	https://thumbs.dreamstime.com/b/conceito-de-consultoria-neg%C3%B3cios-na-tela-virtual-208784809.jpg
+}
+
+Ícone Linkedin {
+	https://cdn-icons-png.flaticon.com/512/174/174857.png
+}
+
+Ícone Email {
+	https://cdn-icons-png.flaticon.com/512/561/561127.png
+}
+
+Ícone GitHub {
+	https://cdn-icons-png.flaticon.com/512/1051/1051326.png
+}

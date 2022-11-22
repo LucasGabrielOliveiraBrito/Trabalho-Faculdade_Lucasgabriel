@@ -87,16 +87,14 @@ img {
     height: 600px;
 }
 
-form [type="submit"] {
+button,button:hover {
     height: 50px;
     width: 50%;
     background-color: rgb(72,209,204);
     color: white;
     font-weight: bold;
-}
-  
-form [type="submit"]:hover {
     cursor: pointer;
+    border-radius: 20px;
 }
 
 input {
